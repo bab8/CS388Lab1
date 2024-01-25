@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TapCounterApp</string>
+    <string name="add_1">ADD 1</string>
+    <string name="subtract_by_2">SUBTRACT BY 2</string>
+    <string name="_0">0</string>
+    <string name="upgrade_to_add_by_2">Upgrade to add by 2</string>
+</resources>
